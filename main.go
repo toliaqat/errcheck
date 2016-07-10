@@ -10,8 +10,8 @@ import (
 	"runtime"
 	"strings"
 
-	"github.com/kisielk/errcheck/internal/errcheck"
-	"github.com/kisielk/gotool"
+	"github.com/toliaqat/errcheck/internal/errcheck"
+	"github.com/toliaqat/gotool"
 )
 
 const (
